@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportACCParameters", "ImportACCParameters.csproj", "{B5CB0EEF-9F25-4392-A228-D3C6189630C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Debug|x64.ActiveCfg = Debug|x64
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Debug|x64.Build.0 = Debug|x64
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Release|x64.ActiveCfg = Release|Any CPU
+		{B5CB0EEF-9F25-4392-A228-D3C6189630C9}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABF3C6C-AA81-4246-B842-2B4032A11D33}
+	EndGlobalSection
+EndGlobal
