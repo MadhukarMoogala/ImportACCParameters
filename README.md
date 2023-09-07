@@ -4,7 +4,8 @@ Importing ACC Parameter definitions created on ACC to AutoCAD, once the definiti
 
 This sample demonstrates attaching Asset id to `BlockReferences` and Wire Tags to `Lines` , random values are generated in AutoCAD plugin to attach ids, ideally these uniques values may be stored in SQL Database and retrieved.
 
-
+## Demo
+![](https://github.com/MadhukarMoogala/ImportACCParameters/blob/master/parameters_autocad.png)
 
 ## Prequisites
 
