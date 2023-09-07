@@ -251,13 +251,13 @@ namespace ImportACCParameters
                     {
                         case "AcDbBlockReference":
                             {
-                                ParameterName = parameters[1].Name;
+                                ParameterName = parameters[0].Name;
                                 ParameterDescription = parameters[1].Description;
                                 break;
                             }
                         case "AcDbLine":
                             {
-                                ParameterName = parameters[0].Name;
+                                ParameterName = parameters[1].Name;
                                 ParameterDescription = parameters[0].Description;
                                 break;
                             }
